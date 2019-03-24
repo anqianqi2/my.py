@@ -40,7 +40,7 @@ def longestPalindrome(str):
 
 
 if __name__ == '__main__':
-    str = 'babcbabcad'
+    str = 'asdsa'
     print(longestPalindrome(str))
 
 
